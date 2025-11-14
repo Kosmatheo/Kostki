@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Random;
-
+//https://github.com/Technikum-TEB-Edukacja-we-Wroclawiu/INF.04-rozwiazania/blob/main/_arkusze/2024-06/inf_04_2024_06_01_SG.pdf
 public class Losowania {
     private ArrayList<Kostki> listak = new ArrayList<>();
     private ArrayList<Integer> listap = new ArrayList<>();
